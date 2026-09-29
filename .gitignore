@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data 
+data/train_series/
+data/test_series/
+
+*.pth
+*.pt
+*.ckpt
+models/
+outputs/*
